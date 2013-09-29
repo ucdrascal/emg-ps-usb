@@ -1,0 +1,7 @@
+# backup files
+*.s#?
+*.b#?
+*.l#?
+
+# eagle project file
+eagle.epf
