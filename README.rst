@@ -24,9 +24,6 @@ Electromechanical:
 * Apem MA12R/TR SPDT switch
 * CUI MJ-3523-SMT 3.5mmm mono phono jack
 * Molex 480390001 USB-A connector
-* Molex 53047-0410 PicoBlade 4x1 shrouded header
-* Molex 51021-0400 PicoBlade 4x1 housing
-* Molex 50058-8000 PicoBlade crimp pins
 * TE Connectivity 284093-2 2x1 screw terminal block
 * MyCableMart.com 6" 3.5mm mono male to male cable
 
