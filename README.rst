@@ -43,6 +43,13 @@ Discrete components:
 
 Details, including vendor links and prices are in bill-of-materials.ods.
 
-.. PARTS LINKS
+License
+=======
+
+The contents of this repository are licensed under the `CC-BY 4.0 license`_.
+
+
+.. REFERENCES
 .. _`Analog Devices ADM660`: http://www.analog.com/en/power-management/switched-capacitor-converters/adm660/products/product.html
 .. _`TS phone connector`: https://en.wikipedia.org/wiki/Phone_connector_(audio)
+.. _`CC-BY 4.0 license`: https://creativecommons.org/licenses/by/4.0/
