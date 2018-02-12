@@ -2,6 +2,9 @@
 emg-ps-usb : EMG power supply USB dongle
 ========================================
 
+.. image:: rev1/board.png
+   :alt: Board screenshot
+
 Description
 ===========
 This is a power supply design for powering Motion Lab Systems Y03 or Z03 EMG
